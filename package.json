@@ -1,0 +1,15 @@
+{
+  "name": "uptime-monitor",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "KawaiiZapic",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}

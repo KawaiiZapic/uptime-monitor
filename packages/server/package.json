@@ -1,0 +1,14 @@
+{
+  "name": "@uptime-monitor/server",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {},
+  "keywords": [],
+  "author": "KawaiiZapic",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.17.0",
+    "typescript": "^4.7.3"
+  }
+}
